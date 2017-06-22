@@ -12,6 +12,7 @@
 #import "MASConstraint+Private.h"
 #import "MASViewAttribute.h"
 #import "View+MASAdditions.h"
+#import "MASConstraint.h"
 
 @interface MASConstraintMaker () <MASConstraintDelegate>
 

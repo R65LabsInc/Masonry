@@ -8,6 +8,7 @@
 
 #import "NSArray+MASAdditions.h"
 #import "View+MASAdditions.h"
+#import "MASConstraint.h"
 
 @implementation NSArray (MASAdditions)
 
